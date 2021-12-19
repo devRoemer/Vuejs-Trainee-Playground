@@ -48,6 +48,8 @@ This project is a very basic dotnet core api and a vuejs client that can make re
 
 There is already a greeting endpoint that communicats with the server.
 
+The server side has swagger added so that api endpoints can be tested easily: http://localhost:5000/swagger
+
 ## Todos
 
 ### 1. Help Sammy
@@ -72,3 +74,4 @@ Further infromation from refinement:
 * No ui required for the user creation. We have swagger. That's enough for the first step (http://localhost:5000/swagger)
 * We need to add an api endpoint to list all users. No search or paging required
 * The dev can decide which db and framework to use, even in memory is ok. (Entity-Framework, Sqlite, etc.)
+* No authentication required
