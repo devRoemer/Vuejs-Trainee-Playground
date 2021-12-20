@@ -4,6 +4,7 @@
 
 1. Install [Visual Studio Community 2019 or 2022 Edition](https://visualstudio.microsoft.com/de/vs/) for Backend development
 2. Install [.NET Core 3.1 SDK - NOT runtime](https://dotnet.microsoft.com/download/visual-studio-sdks) if not installed with Visual Studio
+3. Ensure that you have Nuget.org in your package sources (https://www.nuget.org/) - Options => NuGet Packet manager => Sources
 
 ## Installation Guide - Frontend
 
